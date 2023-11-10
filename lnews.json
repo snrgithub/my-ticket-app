@@ -1,0 +1,20 @@
+{
+  "latestnews": [
+    {
+      "id": 101,
+      "lnews": "Sample Data"
+    },
+    {
+      "id": "102",
+      "lnews": "Quick links"
+    },
+    {
+      "id": "103",
+      "lnews": "Student Registration"
+    },
+    {
+      "id": "104",
+      "lnews": "Reach us"
+    }
+  ]
+}

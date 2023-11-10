@@ -1,0 +1,103 @@
+{
+  "employee": [
+    {
+      "id": 101,
+      "name": "satyanarayana",
+      "email": "satya@gmail.com",
+      "designation": "Team Lead",
+      "isactive": "true",
+      "salary": "300000",
+      "address": "Secunderabad"
+    },
+    {
+      "id": "103",
+      "name": "arun",
+      "email": "arun@gmail.com",
+      "designation": "Team Lead",
+      "isactive": "false",
+      "salary": "120000",
+      "address": "chennai"
+    },
+    {
+      "id": "106",
+      "name": "ram",
+      "email": "ram@gmail.com",
+      "designation": "Jr.Developer",
+      "isactive": false,
+      "salary": "120000",
+      "address": "Hyderabad"
+    },
+    {
+      "id": "107",
+      "name": "indu",
+      "email": "indu@gmail.com",
+      "designation": "Team Lead",
+      "isactive": "true",
+      "salary": "100000",
+      "address": "Hyderabad"
+    },
+    {
+      "id": "108",
+      "name": "pranay",
+      "email": "pranay@gmail.com",
+      "designation": "Sr.Developer",
+      "isactive": "true",
+      "salary": "120000",
+      "address": "Secunderabd"
+    },
+    {
+      "id": "109",
+      "name": "hari",
+      "email": "hari@gmail.com",
+      "designation": "Sr.Developer",
+      "isactive": "true",
+      "salary": "120000",
+      "address": "Siricilla"
+    },
+    {
+      "id": "110",
+      "name": "prashanth",
+      "email": "prashanth@gmail.com",
+      "designation": "Jr.Developer",
+      "isactive": false,
+      "salary": "130000",
+      "address": "Secunderabad"
+    },
+    {
+      "id": "111",
+      "name": "himan",
+      "email": "himan@gmail.com",
+      "designation": "Manger",
+      "isactive": true,
+      "salary": "200000",
+      "address": "hyderabad"
+    },
+    {
+      "id": "102",
+      "name": "anshu",
+      "email": "anshu@gmail.com",
+      "designation": "Team Lead",
+      "isactive": "",
+      "salary": "20000",
+      "address": "warangal"
+    },
+    {
+      "id": "112",
+      "name": "raghu",
+      "email": "raha@gmail.com",
+      "designation": "Manger",
+      "isactive": "",
+      "salary": "200000",
+      "address": "hyd"
+    },
+    {
+      "id": "113",
+      "name": "anil",
+      "email": "anil@gmail.com",
+      "designation": "Manger",
+      "isactive": "false",
+      "salary": "90000",
+      "address": "usa"
+    }
+  ]
+}

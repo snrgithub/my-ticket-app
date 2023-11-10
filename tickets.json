@@ -1,0 +1,84 @@
+{
+  "movieDetails": [
+    {
+      "id": "103",
+      "movieName": "Samajavaragamana",
+      "theaterName": "AMB Cinemas",
+      "date": "2023-07-03",
+      "showtime": "11:00",
+      "price": "250",
+      "theaterAddress": "Kondapur, Hyderabad",
+      "contact": "9346576278"
+    },
+    {
+      "id": "104",
+      "movieName": "Indian Jones",
+      "theaterName": "Miraj Cinemas",
+      "date": "2023-07-07",
+      "showtime": "21:00",
+      "price": "250",
+      "theaterAddress": "Chaitanyapuri, hyderabad",
+      "contact": "9476734562"
+    },
+    {
+      "id": "105",
+      "movieName": "SpiderMan",
+      "theaterName": "Sampoorna ",
+      "date": "2023-07-04",
+      "showtime": "18:00",
+      "price": "150",
+      "theaterAddress": "Lb nagar",
+      "contact": "9437263663"
+    },
+    {
+      "id": "106",
+      "movieName": "Pathaan",
+      "theaterName": "Sushma",
+      "date": "2023-07-05",
+      "showtime": "18:00",
+      "price": "100",
+      "theaterAddress": "Lb nagar",
+      "contact": "9466734442"
+    },
+    {
+      "id": "107",
+      "movieName": "Adipurush",
+      "theaterName": "Vimala",
+      "date": "2023-07-06",
+      "showtime": "18:30",
+      "price": "400",
+      "theaterAddress": "Karimnagar",
+      "contact": "9345667664"
+    },
+    {
+      "id": "108",
+      "movieName": "Salaar",
+      "theaterName": "Shalini Shivani",
+      "date": "2023-07-11",
+      "showtime": "22:30",
+      "price": "350",
+      "theaterAddress": "hyderabad",
+      "contact": "8476767634"
+    },
+    {
+      "id": "101",
+      "movieName": "Adipurush",
+      "theaterName": "Shiva Ganga",
+      "date": "2023-07-14",
+      "showtime": "21:00",
+      "price": "350",
+      "theaterAddress": "DilshukhNagar, Hyderabad",
+      "contact": "9043874743"
+    },
+    {
+      "id": "102",
+      "movieName": "Indian Jones",
+      "theaterName": "Vimala",
+      "date": "2023-07-11",
+      "showtime": "19:50",
+      "price": "150",
+      "theaterAddress": "Siricilla",
+      "contact": "8932476493"
+    }
+  ]
+}

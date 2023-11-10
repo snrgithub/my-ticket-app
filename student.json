@@ -1,0 +1,34 @@
+{
+  "student": [
+    {
+      "id": "9",
+      "name": "ankit kumar",
+      "address": "surat"
+    },
+    {
+      "id": "1",
+      "name": "satyanarayana",
+      "address": "hyderabad"
+    },
+    {
+      "id": "2",
+      "name": "anupama p",
+      "address": "kerala"
+    },
+    {
+      "id": "3",
+      "name": "anil",
+      "address": "secunderabad"
+    },
+    {
+      "id": "4",
+      "name": "harish",
+      "address": "warangal"
+    },
+    {
+      "id": "5",
+      "name": "madhu sagar",
+      "address": "chennai"
+    }
+  ]
+}
